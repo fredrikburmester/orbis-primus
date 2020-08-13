@@ -2,7 +2,7 @@
 This is the new Orbis Primus website. Build using HTML, CSS, JS and PHP. No external dependencies exept fonts and icons. This website is hosted on One.com under the domain orbisprimus.se
 
 ## Getting started 
-The file structure is pretty simple. The webstie contains three main files: a header file, a main index file, and a footer file. All three files combiled into one file with the PHP include command. If you need to change anything the the header, you only have to change the header file and so on. 
+The file structure is pretty simple. The webstie contains three main files: a header file, a main index file, and a footer file. All three files combined into one file with the PHP include command. If you need to change anything the the header, you only have to change the header file and so on. 
 Images are stored in the `images` folder, plugins in the `plugins` folder and so on. 
 
 ## Reading/Creating Blog Posts
